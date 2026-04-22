@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# Documentos e arquivos de trabalho
+*.pdf
+*.docx
+*.doc
+*.xlsx
+*.csv
+
+# Imagens avulsas da raiz (as do assets/ são incluídas)
+/*.jpeg
+/*.jpg
+/*.png
+
+# Sistema
+.DS_Store
+Thumbs.db
